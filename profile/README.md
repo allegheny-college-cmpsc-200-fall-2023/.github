@@ -10,3 +10,5 @@ A study of the low-level operation of computer systems. Participating in hands-o
 * Identify levels of the Memory Hierarchy and the implications of using the various levels to implement high-performance programs
 * Develop C and Assembly language programs which use the appropriate levels of the Memory Hierarchy and processor registers to create performant, executable programs and arithmetic logic units
 * Describe and use parallel processing techniques to increase a program’s performance and efficiency
+
+For more on course governance and supporting materials, see the [course materials repository](https://github.com/allegheny-college-cmpsc-200-fall-2023/course-materials).
